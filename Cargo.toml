@@ -1,0 +1,9 @@
+[package]
+name = "video-to-gif"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+walkdir = "2.4"
+regex = "1.10"
+which = "5.0"
